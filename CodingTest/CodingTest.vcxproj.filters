@@ -84,6 +84,12 @@
     <ClCompile Include="10815.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="23881.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23968.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Define.h">
